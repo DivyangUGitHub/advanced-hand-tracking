@@ -1,7 +1,7 @@
 # Advanced Hand Tracking & Gesture Recognition
 
 <p align="center">
-  <img src="https://www.infolks.info/blog/wp-content/uploads/2023/06/BLOG-IMAGE-02.jpg" width="350" style="background:white; padding:10px; border-radius:10px;">
+  <img src="https://www.infolks.info/blog/wp-content/uploads/2023/06/BLOG-IMAGE-02.jpg" width="350">
 </p>
 
 </div>
