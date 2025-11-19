@@ -9,6 +9,23 @@ Real-time hand tracking and gesture recognition using MediaPipe and OpenCV.
 - Visual feedback with landmarks and gesture labels
 
 ## Gestures Recognized
+-🔊 Voice Feedback: Speaks what gesture you're making
+
+-🎵 Volume Control:
+
+-Thumbs Up: Volume +10%
+
+-Thumbs Down: Volume -10%
+
+-Special volume gestures
+
+-💡 Brightness Control:
+
+-Palm up/down gestures
+
+-🎮 System Integration: Real control of your computer's volume and brightness
+
+-📊 Visual Display: Shows current volume and brightness levels
 - ✊ Fist
 - ✌️ Peace Sign  
 - 👍 Thumbs Up
