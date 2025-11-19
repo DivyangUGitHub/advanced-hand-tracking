@@ -1,5 +1,9 @@
 # Advanced Hand Tracking & Gesture Recognition
 
+  <div class="image-container">
+    <img src="https://www.infolks.info/blog/wp-content/uploads/2023/06/BLOG-IMAGE-02.jpg" alt="Gesture Hand Thumbs-Up">
+  </div>
+
 Real-time hand tracking and gesture recognition using MediaPipe and OpenCV.
 
 ## Features
