@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="https://www.infolks.info/blog/wp-content/uploads/2023/06/BLOG-IMAGE-02.jpg"
        alt="Gesture Hand Thumbs-Up"
-       style="width: 300px;">
+       style="width: 400px;">
 </div>
 
 </div>
