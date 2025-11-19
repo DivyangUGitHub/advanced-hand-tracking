@@ -3,7 +3,7 @@
   <div class="image-container">
   <img src="https://www.infolks.info/blog/wp-content/uploads/2023/06/BLOG-IMAGE-02.jpg" 
        alt="Gesture Hand Thumbs-Up"
-       style="width: 200px;">
+       style="width: 400px;">
 </div>
 
 Real-time hand tracking and gesture recognition using MediaPipe and OpenCV.
