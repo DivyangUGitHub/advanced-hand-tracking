@@ -1,9 +1,9 @@
 # Advanced Hand Tracking & Gesture Recognition
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img src="https://www.infolks.info/blog/wp-content/uploads/2023/06/BLOG-IMAGE-02.jpg"
-       alt="Gesture Hand Thumbs-Up"
-       style="width: 400px;">
+<p align="center">
+  <img src="https://www.infolks.info/blog/wp-content/uploads/2023/06/BLOG-IMAGE-02.jpg" width="350" style="background:white; padding:10px; border-radius:10px;">
+</p>
+
 </div>
 
 </div>
